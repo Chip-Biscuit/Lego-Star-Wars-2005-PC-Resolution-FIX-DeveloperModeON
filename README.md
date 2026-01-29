@@ -1,2 +1,26 @@
-# Lego-Star-Wars-2005-PC-Resolution-AspectRatio-HUD-FIX
-This is the lego star wars 2005 pc resolution aspect ratio and HUD wrapper and Fix Files.
+# Lego Star Wars (2005)
+
+# Requirements before using fix
+Before using the fix for it to work properly you must have patched the game up to 1.0.0.2 release. If you have not updated your Lego Star Wars (2005) already then you can download the patch from here - https://community.pcgamingwiki.com/files/file/438-lego-star-wars-patcher/ 
+
+# Instructions
+Go to releases and download the latest LegoStarWars(2005)Fix.zip, extract the d3d9.dll and d3d9.ini files into your game folder next to the LegoStarWars.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
+
+# Resolution/Aspect Ratio
+The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the resolution that you wish to use in both the Width and Height area.
+Aspect Ratio and Hud size is auto calculated by the Resolution you choose.
+
+# FPS
+The default for FPS is (60) you can change it as you wish with the FPSLimit option in the d3d9.ini file. It is recommended to not go above 60.
+
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/lego-star-wars-the-video-game-2005 
+
+# Issues/Problems
+If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
+Credits
+Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
+
+# Fix Enhancers
+https://fixenhancers.wixsite.com/fix-enhancers
+“Creating compatibility fixes and enhancements for legacy PC games.”
