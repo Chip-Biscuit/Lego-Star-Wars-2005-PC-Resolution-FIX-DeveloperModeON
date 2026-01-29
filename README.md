@@ -1,3 +1,20 @@
+<div align="center">
+
+# 🎮 Game Specific Patches & DLL Wrappers  
+
+***created and maintained by***
+
+[![Chip-Biscuit Website](https://img.shields.io/badge/Chip--Biscuit-Website-blue?style=for-the-badge)](https://chip-biscuit.github.io/)
+
+Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
+
+[![Downloads](https://img.shields.io/github/download/lswfix/LegoStarWars2005Fix.zip)](https://github.com/Chip-Biscuit/Lego-Star-Wars-2005-PC-Resolution-AspectRatio-HUD-FIX/releases/tag/lswfix)
+
+<sub>click the Total Downloads button above to take you to the releases page and download the zip at the bottom</sub>
+
+</div>
+
+
 # Lego Star Wars (2005)
 
 ![ezgif com-animated-gif-maker (5)](https://github.com/user-attachments/assets/ebb5e448-56aa-4671-b8cc-c4263f29c29b)
