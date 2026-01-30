@@ -46,40 +46,39 @@ Put ChipDebugLSW.exe and ChipDebug.ini with d3d9.dll and d3d9.ini
 
 go into ChipDebug.ini and set the settings, you should pay attention to your region of your game. if you want the game to run after you run the patcher program set LAUNCH_GAME=1 if not then LAUNCH_GAME=0 default is 0 
 
-; ============================================================
-;  REGION SETTINGS
-; ============================================================
-;
-;  Set EXACTLY ONE of the following to 1.
-;  All others must be 0.
-;
-;  EU        = Patch the EUROPE / PAL version of the game
-;  EU_RESET  = Restore the ORIGINAL EU executable
-;
-;  US        = Patch the UNITED STATES / NTSC version of the game
-;  US_RESET  = Restore the ORIGINAL US executable
-;
-;  Examples:
-;
-;    Enable EU debug:
-;      EU=1
-;
-;    Disable EU debug:
-;      EU_RESET=1
-;
-; ============================================================
+
+ REGION SETTINGS:
+
+    Set EXACTLY ONE of the following to 1.
+    All others must be 0.
+
+    EU        = Patch the EUROPE / PAL version of the game
+    EU_RESET  = Restore the ORIGINAL EU executable
+
+    US        = Patch the UNITED STATES / NTSC version of the game
+    US_RESET  = Restore the ORIGINAL US executable
+
+  Examples:
+
+    Enable EU debug:
+      EU=1
+
+    Disable EU debug:
+      EU_RESET=1
+
 
 [REGION]
 
-; --- Region selection (choose ONE only) ---
-EU=1
-EU_RESET=0
-US=0
-US_RESET=0
+Region selection (choose ONE only):
 
-;  Debug menu becomes available in the game after patching it 
-;  once enabled, advice don't use in the main menu its a bit buggy
-;  use it once you get into the game itself by pausing and going to options.
+    EU=1
+    EU_RESET=0
+    US=0
+    US_RESET=0
+
+Debug menu becomes available in the game after patching it 
+once enabled, advice don't use in the main menu its a bit buggy
+use it once you get into the game itself by pausing and going to options.
 
 After setting up in the ini then run ChipDebugLSW.exe then you can play the game normally by using LegoStarwars.exe, if for any reason you want to turn off developer mode then just use the patcher program again. it will also give you a LegoStarwars.exe.bak incase of failures.
 
