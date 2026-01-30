@@ -42,7 +42,7 @@ The default for FPS is (60) you can change it as you wish with the FPSLimit opti
 
 # Debug Menu
 
-put ChipDebugLSW.exe and ChipDebug.ini with d3d9.dll and d3d9.ini 
+Put ChipDebugLSW.exe and ChipDebug.ini with d3d9.dll and d3d9.ini 
 
 go into ChipDebug.ini and set the settings, you should pay attention to your region of your game. if you want the game to run after you run the patcher program set LAUNCH_GAME=1 if not then LAUNCH_GAME=0 default is 0 
 
