@@ -8,7 +8,8 @@
 
 Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
 
-[![Total Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Lego-Star-Wars-2005-PC-Resolution-AspectRatio-HUD-FIX/total)](https://github.com/Chip-Biscuit/Lego-Star-Wars-2005-PC-Resolution-AspectRatio-HUD-FIX/releases/tag/lswfix)
+[![Total Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Lego-Star-Wars-2005-PC-Resolution-AspectRatio-HUD-FIX/total?style=flat-square)](https://github.com/Chip-Biscuit/Lego-Star-Wars-2005-PC-Resolution-AspectRatio-HUD-FIX/releases)
+
 
 
 <sub>click the Total Downloads button above to take you to the releases page and download the zip at the bottom</sub>
